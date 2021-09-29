@@ -1,0 +1,20 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "Lightweight SPA/PWA web server implementation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bububntoid/http.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bububntoid/http/issues"
+  },
+  "homepage": "https://github.com/bububntoid/http"
+}
